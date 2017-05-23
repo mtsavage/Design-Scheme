@@ -18,7 +18,7 @@
 Headings: Cormorant Garamond
 
 HTML: 
-<link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond" rel="stylesheet"> 
+link href="https://fonts.googleapis.com/css?family=Cormorant+Garamond" rel="stylesheet" 
 
 CSS:
 font-family: 'Cormorant Garamond', serif;
@@ -27,7 +27,7 @@ font-family: 'Cormorant Garamond', serif;
 Paragraphs: Open Sans
 
 HTML:
-<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
+link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" 
 
 CSS:
 font-family: 'Open Sans', sans-serif;
