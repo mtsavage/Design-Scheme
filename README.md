@@ -36,3 +36,7 @@ font-family: 'Open Sans', sans-serif;
 **Icons**
 
 ![](bclogo.png)
+
+**Icons**
+
+We are thinking of putting in photos of scenery of the differnt cities in Benton County. 
