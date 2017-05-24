@@ -34,3 +34,5 @@ font-family: 'Open Sans', sans-serif;
 
 ------
 **Icons**
+
+![](bclogo.png)
